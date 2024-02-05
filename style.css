@@ -1,4 +1,31 @@
 * {
     margin: 0;
     padding: 0;
+
+}
+
+.menu-container {
+    background-color: fuchsia;
+    padding: 20px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+
+.menu-logo {
+    width: 220px;
+
+}
+
+.menu-item>ul {
+    display: flex;
+    gap: 20px;
+    font-size: 1.4 rem;
+}
+
+.menu-item li {
+    list-style: none;
 }
