@@ -52,6 +52,7 @@
     list-style: none;
 }
 
+
 .logo {
     width: 35px;
     border-radius: 50%;
@@ -101,6 +102,8 @@
 
 .banner-image {
     margin-top: 60px;
+
+
 }
 
 .marquee {
